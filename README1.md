@@ -1,4 +1,4 @@
-![spring (1)](https://github.com/gitDaeHyun/Next-pjt/assets/122415799/18a82d2d-a654-48a6-9a55-c66d508d9edc)# SoRhy
+# SoRhy
 
 ## 팀원 소개
 
